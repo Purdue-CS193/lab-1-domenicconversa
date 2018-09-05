@@ -1,4 +1,4 @@
-#Domenic's First CS193 Lab
+# Domenic's First CS193 Lab
 
 My Favorite Things About CS193:
 -We get to learn how to use Github!
