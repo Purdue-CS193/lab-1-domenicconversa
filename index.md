@@ -1,9 +1,9 @@
 # Domenic's First CS193 Lab
 
 My Favorite Things About CS193:
--We get to learn how to use Github!
--We will learn how to be successful Purdue computer science students
--We will learn tips and tricks to help us throughout the semester
+- We get to learn how to use Github!
+- We will learn how to be successful Purdue computer science students
+- We will learn tips and tricks to help us throughout the semester
 
 
 
