@@ -1,3 +1,12 @@
+#Domenic's First CS193 Lab
+
+My Favorite Things About CS193:
+-We get to learn how to use Github!
+-We will learn how to be successful Purdue computer science students
+-We will learn tips and tricks to help us throughout the semester
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,8 +19,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-```mark own text```
 
 # Header 1
 ## Header 2
